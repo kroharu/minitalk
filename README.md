@@ -1,3 +1,5 @@
+_This is a **21 School/Ecole 42** Project_
+
 # minitalk (Complexity 50 hours)
 <img align="right" img src="https://badge42.vercel.app/api/v2/cl3enoo9k004009muhk5a94tj/project/2528987" alt="ladrian's 42 minitalk Score" />
 
